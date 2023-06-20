@@ -17,7 +17,7 @@ If you find a simple error within the Code of Discipline, such as any of the fol
 Please simply make a pull request with the changed content, and it should get approved and merged quickly. However, if it is a more in-depth error, more discussion may be required, and it is suggested to simply begin a [Discussion](https://github.com/scp-rca/code-of-discipline/discussions) about it.
 
 ### Content Additions or Amendments
-Please begin a [Discussion](https://github.com/scp-rca/code-of-discipline/discussions) with the tag "addition" or "amendment" respectively.
+Please begin a [Discussion](https://github.com/scp-rca/code-of-discipline/discussions) with the tag "creation" or "amendment" respectively.
 
 As proposing and maintaining content of the Code of Discipline is up to the Administrative Board and Ethics Committee primarly, new content is needed to be proposed by a member of one of these parties.
 
